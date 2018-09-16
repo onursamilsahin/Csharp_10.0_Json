@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_10.0_Json", "Csharp_10.0_Json\Csharp_10.0_Json.csproj", "{D9746214-ADFC-4727-8990-8AA05D0A372D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_10.1_jsonOku", "Csharp_10.1_jsonOku\Csharp_10.1_jsonOku.csproj", "{68519284-6740-42BB-AE1C-A42F9E817A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9746214-ADFC-4727-8990-8AA05D0A372D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9746214-ADFC-4727-8990-8AA05D0A372D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9746214-ADFC-4727-8990-8AA05D0A372D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9746214-ADFC-4727-8990-8AA05D0A372D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68519284-6740-42BB-AE1C-A42F9E817A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68519284-6740-42BB-AE1C-A42F9E817A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68519284-6740-42BB-AE1C-A42F9E817A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68519284-6740-42BB-AE1C-A42F9E817A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D23C40A-2596-4C07-A709-E36E0EE13352}
+	EndGlobalSection
+EndGlobal
